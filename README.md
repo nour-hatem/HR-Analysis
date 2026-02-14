@@ -16,4 +16,4 @@ The analysis of the dataset revealed several critical findings, which were trans
 
 ## Technical Stack
 *   **Tool:** Microsoft Power BI
-*   **Techniques:** Data Cleaning, Data Modeling (Star Schema/Snowflake), DAX Calculations, Interactive Visualizations (Cards, Bar Charts, Maps, Donut Charts).ج
+*   **Techniques:** Data Cleaning, Data Modeling (Star Schema/Snowflake), DAX Calculations, Interactive Visualizations (Cards, Bar Charts, Maps, Donut Charts).
