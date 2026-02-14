@@ -1,7 +1,7 @@
 # HR Data Analysis Dashboard (Power BI)
 
 ## Project Overview
-This project involves the development of a comprehensive, interactive Human Resources (HR) Data Analysis Dashboard using **Microsoft Power BI**. The primary goal was to transform raw HR data for a company with 2,845 employees into actionable strategic insights for executive management.
+This project involves developing a comprehensive, interactive Human Resources (HR) Data Analysis Dashboard in **Microsoft Power BI**. The primary goal was to transform raw HR data for a company with 2,845 employees into actionable strategic insights for executive management.
 
 The dashboard focuses on key HR metrics, including employee demographics, engagement scores, training costs, and performance distribution, revealing critical areas for strategic intervention.
 
